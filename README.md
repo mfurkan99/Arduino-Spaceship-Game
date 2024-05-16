@@ -2,7 +2,7 @@
 
 Bu projede, çeşitli sensörler kullanarak Arduino platformunda oyun geliştirilmiştir. Kod C++ ile yazılmıştır. Devre tasarımı Proteus üzerinden yapılmıştır.
 
-# Oyunun Türü
+# Oyunun Amacı
 Uzay ortamında çeşitli meteor ve uzay çöplerinden kaçmaya çalışan bir uzay gemisini ele alan bir oyun yapılmıştır.
 
 # Devreye ait Görüntü
@@ -11,5 +11,4 @@ Uzay ortamında çeşitli meteor ve uzay çöplerinden kaçmaya çalışan bir u
 # Oyun içi Ekran Görüntüsü
 ![image](https://github.com/mfurkan99/Arduino-Spaceship-Game/assets/73360219/c03cf296-c8e5-43d5-8104-e7051dec9283)
 
-
-
+Detaylı bilgi için raporu okuyabilirsiniz.
